@@ -1,3 +1,6 @@
+# Training Evaluation for NAFDAC Gender Workshop, Enugu, 6 October 2015
+# Data cleaning 1
+
 library(Amelia)
 
 # Load data
